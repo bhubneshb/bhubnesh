@@ -14,5 +14,9 @@
 
 	</script>
 
+	<?php
+	echo "hi";
+	?>
+
 </body>
 </html>
